@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private FloatingActionButton addPostBtn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //Hello Fouad Basha
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         toolbar = findViewById(R.id.toolbar2);
